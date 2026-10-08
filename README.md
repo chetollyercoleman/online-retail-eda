@@ -13,8 +13,8 @@ The intended stakeholder is a hypothetical e-commerce operations or commercial m
 ## Start here
 
 - [EDA notebook](notebooks/Online_Retail_EDA.ipynb)
-- [Project workbook](docs/Online_Retail_EDA_Project_Workbook.pdf)
-- [Analysis tracker](docs/Online_Retail_EDA_Analysis_Tracker.xlsx)
+- [Project workbook](docs/Online%20Retail%20EDA%20-%20Project%20Workbook.pdf)
+- [Analysis tracker](docs/Online%20Retail%20EDA%20-%20Analysis%20Tracker.xlsx)
 
 ## Data and approach
 

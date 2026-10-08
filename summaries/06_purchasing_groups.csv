@@ -1,0 +1,3 @@
+purchase_group,customers,positive_invoices,positive_value_gbp,signed_value_gbp,share_of_customers_percent,share_of_signed_value_percent
+Single-invoice purchaser,1505,1505,628969.671,538586.651,34.72542685740655,6.496363843472796
+Repeat purchaser,2829,16897,8132096.982,7751999.652,65.27457314259345,93.50363615652721
